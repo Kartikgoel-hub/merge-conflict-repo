@@ -1,0 +1,5 @@
+Open Source Development Internship
+
+Team members should update this line during the merge conflict exercise.
+
+Current Version: Version A
