@@ -46,12 +46,5 @@ After completing this exercise, students should be able to:
 - Only modify the designated practice files.
 - The goal is to understand the conflict resolution process, not to avoid conflicts.
 
----
-
-## Internship Module
-
-Course: Introduction to Open Source Development
-
-Session: L12 – Merge Conflict Resolution
 
 Repository Type: Practice Repository
